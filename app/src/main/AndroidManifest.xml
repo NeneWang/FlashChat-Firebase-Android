@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest
-    package="com.londonappbrewery.flashchatnewfirebase"
+    package="com.nelsonWang.flashchatnewfirebase"
     xmlns:android="http://schemas.android.com/apk/res/android">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -13,7 +14,7 @@
         android:theme="@style/AppTheme" >
 
         <activity
-            android:name=".LoginActivity"
+            android:name="com.nelsonWang.flashchatnewfirebase.LoginActivity"
             android:label="@string/app_name"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden|adjustPan" >
@@ -25,12 +26,12 @@
         </activity>
 
         <activity
-            android:name=".RegisterActivity"
+            android:name="com.nelsonWang.flashchatnewfirebase.RegisterActivity"
             android:screenOrientation="portrait">
         </activity>
 
         <activity
-            android:name=".MainChatActivity"
+            android:name="com.nelsonWang.flashchatnewfirebase.MainChatActivity"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden|adjustResize">
         </activity>

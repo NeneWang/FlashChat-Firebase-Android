@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "22875540772",
+    "firebase_url": "https://flashchatandroid-1c931.firebaseio.com",
+    "project_id": "flashchatandroid-1c931",
+    "storage_bucket": "flashchatandroid-1c931.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22875540772:android:c4ebddec92efe223",
+        "android_client_info": {
+          "package_name": "com.jenniferlopez.flashchatnewfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22875540772-6dlsfm4gkb31i83crukq18p1ro5f0o6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaJYyGkph0RMcpYAii-Aa-IU-YKvuO3VU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22875540772:android:c4be53756dd9978c",
+        "android_client_info": {
+          "package_name": "com.nelsonWang.flashchatnewfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22875540772-i7pohf1sb90tpqjhjtccoeimbujfbije.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nelsonWang.flashchatnewfirebase",
+            "certificate_hash": "de73d4e11181cd326ced2eb334dcc9fbcf375fac"
+          }
+        },
+        {
+          "client_id": "22875540772-6dlsfm4gkb31i83crukq18p1ro5f0o6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaJYyGkph0RMcpYAii-Aa-IU-YKvuO3VU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22875540772-6dlsfm4gkb31i83crukq18p1ro5f0o6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

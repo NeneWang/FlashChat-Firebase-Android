@@ -4,7 +4,7 @@ android {
     compileSdkVersion 27
 
     defaultConfig {
-        applicationId "com.londonappbrewery.flashchatnewfirebase"
+        applicationId "com.nelsonWang.flashchatnewfirebase"
         minSdkVersion 16
         targetSdkVersion 27
         versionCode 1
@@ -25,4 +25,9 @@ dependencies {
     implementation 'com.android.support:design:27.0.2'
 
 
+    implementation 'com.google.firebase:firebase-database:12.0.1'
+    implementation 'com.google.firebase:firebase-auth:12.0.1'
+
 }
+
+apply plugin: 'com.google.gms.google-services'
